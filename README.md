@@ -122,7 +122,6 @@
         <li>Machine Learning</li>
         <li>Deep Learning
         </li>
-
     </ul>
 </div>
 </section>
