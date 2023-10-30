@@ -86,7 +86,7 @@
     <header>
         <div class="header-content">
             <img src="pic.jpg" alt="your profile picture" class="profile-picture">
-            <h1>Saradha</h1>
+            <h1>SaradhaDevi S</h1>
             <p>
             Passionate on Teaching
             </p>
@@ -105,7 +105,7 @@
     <section id="About">
         <div class="section-content">
             <h2>About</h2>
-            <p>Hello Everyone! This is Saradha i am a computer science Mentor</p>
+            <p>Hello Everyone! This is Saradha Devi,I am a computer science Mentor</p>
         </div>
     </section>
     <section id="Education">
